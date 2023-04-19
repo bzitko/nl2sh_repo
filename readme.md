@@ -275,7 +275,7 @@ If we look at the annotation of the sentence: "`Tom says that his feet hurt.`" t
 
 The statistics for the entire NL2SH dataset are presented in the table below.
 
-```
+
 |                           | count | average |
 |---------------------------|------:|--------:|
 | Sentences                 |   664 |         |
