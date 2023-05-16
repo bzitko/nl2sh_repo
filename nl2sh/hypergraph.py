@@ -136,3 +136,5 @@ class Edge(tuple):
                 else:
                     stack[c].append(Atom(t))
             i += 1
+
+        return
